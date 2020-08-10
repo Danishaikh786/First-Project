@@ -1,0 +1,24 @@
+* {
+background-color: lightyellow;
+}
+h1 {
+text-align: center;
+margin-top: 50px;
+margin-bottom: 50px;
+color: orangered;
+}
+h2, #Projects {
+text-align: center;
+}
+a {
+text-decoration: none;
+color: red;
+}
+a:hover {
+color: pink;
+background-color: transparent;
+text-decoration: none;
+}
+img {
+border: 1px solid black;
+}

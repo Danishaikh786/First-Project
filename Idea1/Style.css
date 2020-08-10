@@ -1,0 +1,51 @@
+* {
+    background-color: whitesmoke;
+}
+h1 {
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+color: orangered;
+}
+h2 {
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+color: orange; 
+}
+p {
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+font-size: large;
+color: darkgreen;
+}
+h3 {
+text-align: center;
+color:darkgreen;
+}
+#Software, #Heading {
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+color: darkgreen;
+}
+
+#Application, #Reference {
+font-family: 'Times New Roman', Times, serif;
+font-size: large;
+color: darkgreen;
+}
+#BlockDiagram {
+ text-align: center;
+ border-color: black;
+}
+img {
+    border: 2px solid black;
+}
+a:hover {
+color: orange;
+background-color: transparent;
+text-decoration: none;
+}
+a {
+text-decoration: none;
+color: orangered;
+}
